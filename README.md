@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm a Computer Science student currently pursuing a Bachelor of Science at University of Southern California.
+
+- 🔭 I’m currently working on 
+  - a news scraping project
+  - a discord bot
 
 <!--
 **markkyaw/markkyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=markkyaw&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markkyaw&theme=dark&hide=html&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=markkyaw&theme=dark&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkyaw&theme=dark&hide=html&langs_count=10&layout=compact" />
+</a>
