@@ -5,7 +5,7 @@ I'm a Computer Science student currently pursuing a Bachelor of Science at Unive
 - 🔭 I’m currently working on 
   - a news scraping project
   - a discord bot
-
+  - learning ios app dev using UIKit
 <!--
 **markkyaw/markkyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
