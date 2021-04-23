@@ -6,6 +6,7 @@ I'm a Computer Science student currently pursuing a Bachelor of Science at Unive
   - a news scraping project
   - a discord bot
   - learning ios app dev using UIKit with [Jack Xu](https://github.com/boyuanx)
+  - updating class rating website [ratemyelectives](https://ratemyelectives.com/) to use Django and React
 <!--
 **markkyaw/markkyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
