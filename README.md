@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-I'm a Computer Science student currently pursuing a Bachelor of Science at University of Southern California.
+I'm a Full Stack Engineer that've graduated from University of Southern California
 
 - 🔭 I’m currently working on 
   - a news scraping project
   - a discord bot
-  - learning ios app dev using UIKit with [Jack Xu](https://github.com/boyuanx)
   - updating class rating website [ratemyelectives](https://ratemyelectives.com/) to use Django and React
 
 I'm also trying to get more involved in contributing to open source projects to expand my skills
