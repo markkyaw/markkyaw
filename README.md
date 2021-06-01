@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm a Full Stack Engineer studied Computer Science at the University of Southern California 
+I'm a Full Stack Engineer
 
-- 🔭 In my free time, I’m working on 
-  - a news scraping project
-  - a discord bot
-  - updating class rating website [ratemyelectives](https://ratemyelectives.com/) to use Django and React
+🔭 In my free time, I’m working on 
+- a news scraping project
+- a discord bot
+- updating class rating website [ratemyelectives](https://ratemyelectives.com/) to use Django and React
 
 I'm also trying to get more involved in contributing to open source projects to expand my skills
 <!--
