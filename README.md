@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm a Full Stack Engineer that've graduated from University of Southern California
+I'm a Full Stack Engineer studied Computer Science at the University of Southern California 
 
-- 🔭 I’m currently working on 
+- 🔭 In my free time, I’m working on 
   - a news scraping project
   - a discord bot
   - updating class rating website [ratemyelectives](https://ratemyelectives.com/) to use Django and React
