@@ -2,10 +2,10 @@
 
 I'm a Full Stack Engineer at [Sharebite](https://www.sharebite.com/)
 
-🔭 In my free time, I’m working on 
-- a news scraping project
-- a discord bot
-- updating class rating website [ratemyelectives](https://ratemyelectives.com/) to use Django and React
+🔭 In my free time, I’m  
+- Building [TCSS401X](https://github.com/Trojan-CS-Society)
+- Gaming, hiking, hanging out with friends
+- exploring and building some minor projects
 
 <!--
 **markkyaw/markkyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
