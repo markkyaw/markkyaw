@@ -1,11 +1,6 @@
-## Hi there 👋
+I'm a Full Stack Engineer
 
-I'm a Full Stack Engineer at [Sharebite](https://www.sharebite.com/)
-
-🔭 In my free time, I’m  
-- Building [TCSS401X](https://github.com/Trojan-CS-Society)
-- Gaming, hiking, hanging out with friends
-- exploring and building some minor projects
+Currently building [TCSS401X](https://github.com/Trojan-CS-Society) and some other stuff
 
 <!--
 **markkyaw/markkyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
