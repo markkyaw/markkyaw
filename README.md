@@ -1,6 +1,5 @@
 I'm a Full Stack Engineer
 
-Currently building [TCSS401X](https://github.com/Trojan-CS-Society) and some other stuff
 
 <!--
 **markkyaw/markkyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
